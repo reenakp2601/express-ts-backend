@@ -1,0 +1,39 @@
+{
+  "submissions": [
+    {
+      "name": "reena",
+      "email": "reena@gmail.com",
+      "phone": "9876543210",
+      "github_link": "https://github.com/dashboard",
+      "stopwatch_time": "00:00:02.7642778"
+    },
+    {
+      "name": "ksd",
+      "email": "ksd@gmail.com",
+      "phone": "9876523123",
+      "github_link": "https://github.com/dashboard",
+      "stopwatch_time": "00:00:04.4586449"
+    },
+    {
+      "name": "nidhi",
+      "email": "nidhi@gmail.com",
+      "phone": "6532784632",
+      "github_link": "https://github.com/dashboard",
+      "stopwatch_time": "00:00:10.6782955"
+    },
+    {
+      "name": "kuhu",
+      "email": "kuhu@gmail.com",
+      "phone": "1234567890",
+      "github_link": "www.github/dashboard",
+      "stopwatch_time": "00:00:00"
+    },
+    {
+      "name": "megha",
+      "email": "megha@gmail.com",
+      "phone": "1234567899",
+      "github_link": "www.github/dashboard",
+      "stopwatch_time": "00:00:04.5969114"
+    }
+  ]
+}
