@@ -57,21 +57,21 @@ This is the backend server for the Slidely Forms App, built with Express.js and 
 ## JSON Data Structure
    The data is stored in a db.json file with the following structure:
 
-   {
-  "submissions": [
-    {
-     "name": "Reena",
-     "email": "reena@mail.com",
-     "phone": "9876543210",
-     "github_link": "https://github.com/reena",
-     "stopwatch_time": "00:02:23"
-     }
-   ]
-}
+   {  
+  "submissions": [  
+    {   
+     "name": "Reena",  
+     "email": "reena@mail.com",  
+     "phone": "9876543210",  
+     "github_link": "https://github.com/reena",  
+     "stopwatch_time": "00:02:23"  
+     }  
+   ]  
+}  
 
 ## Contributing
-   Fork the repository
-   Create a new branch (git checkout -b feature-branch)
-   Commit your changes (git commit -am 'Add some feature')
-   Push to the branch (git push origin feature-branch)
-   Create a new Pull Request
+   1. Fork the repository
+   2. Create a new branch (git checkout -b feature-branch)
+   3. Commit your changes (git commit -am 'Add some feature')
+   4. Push to the branch (git push origin feature-branch)
+   5. Create a new Pull Request
