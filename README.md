@@ -37,21 +37,21 @@ This is the backend server for the Slidely Forms App, built with Express.js and 
     npm test
 
 ## API Endpoints
- 1. Ping
-    URL: /ping
-    Method: GET
-    Response: true
+ 1. Ping  
+    --URL: /ping
+    --Method: GET
+    --Response: true
 
  2. Submit
-    URL: /submit
-    Method: POST
-    Parameters: name, email, phone, github_link, stopwatch_time
-    Response: Success or error message
+    --URL: /submit
+    --Method: POST
+    --Parameters: name, email, phone, github_link, stopwatch_time
+    --Response: Success or error message
  3. Read
-    URL: /read
-    Method: GET
-    Query Parameters: index
-    Response: Submission data or error message
+    --URL: /read
+    --Method: GET
+    --Query Parameters: index
+    --Response: Submission data or error message
 
     
 ## JSON Data Structure
